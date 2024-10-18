@@ -17,3 +17,8 @@
 /tripinfo.csv
 /tripinfo.xml
 /tripinfo.xml--output-prefix TIME
+final.ipynb
+tensors/X_test.pt
+tensors/y_train.pt
+tensors/y_test.pt
+tensors/X_train.pt
